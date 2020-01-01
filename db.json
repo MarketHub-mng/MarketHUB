@@ -1,26 +1,32 @@
 [
   {
     "name": "market talk 1",
-    "link": "https://www.youtube.com/watch?v=NA3UDlmFkNw"
+    "link": "https://www.youtube.com/watch?v=NA3UDlmFkNw",
+    "youtubeId": "NA3UDlmFkNw"
   },
   {
     "name": "market talk 2",
-    "link": "https://www.youtube.com/watch?v=MFjzhjgm3ts"
+    "link": "https://www.youtube.com/watch?v=MFjzhjgm3ts",
+    "youtubeId": "MFjzhjgm3ts"
   },
   {
     "name": "market talk 3",
-    "link": "https://www.youtube.com/watch?v=Nln8wTq3jM4"
+    "link": "https://www.youtube.com/watch?v=Nln8wTq3jM4",
+    "youtubeId": "Nln8wTq3jM4"
   },
   {
     "name": "market talk 4",
-    "link": "https://www.youtube.com/watch?v=AUgP-OE-Slo"
+    "link": "https://www.youtube.com/watch?v=AUgP-OE-Slo",
+    "youtubeId": "AUgP-OE-Slo"
   },
   {
     "name": "market talk 5",
-    "link": "https://www.youtube.com/watch?v=NxZEzDvAkhw"
+    "link": "https://www.youtube.com/watch?v=NxZEzDvAkhw",
+    "youtubeId": "NxZEzDvAkhw"
   },
   {
     "name": "market talk 6",
-    "link": "https://www.youtube.com/watch?v=lyXgXms4tnM"
+    "link": "https://www.youtube.com/watch?v=lyXgXms4tnM",
+    "youtubeId": "lyXgXms4tnM"
   }
 ]
