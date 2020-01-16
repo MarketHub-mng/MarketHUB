@@ -1,32 +1,38 @@
 [
   {
-    "name": "market talk 1",
-    "link": "https://www.youtube.com/watch?v=NA3UDlmFkNw",
-    "youtubeId": "NA3UDlmFkNw"
+    "name": "Market Talk #1",
+    "URL": "NA3UDlmFkNw",
+    "date": "2019-05-19",
+    "duration": "46:11"
   },
   {
-    "name": "market talk 2",
-    "link": "https://www.youtube.com/watch?v=MFjzhjgm3ts",
-    "youtubeId": "MFjzhjgm3ts"
+    "name": "Market Talk #2",
+    "URL": "MFjzhjgm3ts",
+    "date": "2019-05-20",
+    "duration": "48:28"
   },
   {
-    "name": "market talk 3",
-    "link": "https://www.youtube.com/watch?v=Nln8wTq3jM4",
-    "youtubeId": "Nln8wTq3jM4"
+    "name": "Market Talk #3",
+    "URL": "Nln8wTq3jM4",
+    "date": "2019-06-04",
+    "duration": "36:45"
   },
   {
-    "name": "market talk 4",
-    "link": "https://www.youtube.com/watch?v=AUgP-OE-Slo",
-    "youtubeId": "AUgP-OE-Slo"
+    "name": "Market Talk #4",
+    "URL": "AUgP-OE-Slo",
+    "date": "2019-06-17",
+    "duration": "36:04"
   },
   {
-    "name": "market talk 5",
-    "link": "https://www.youtube.com/watch?v=NxZEzDvAkhw",
-    "youtubeId": "NxZEzDvAkhw"
+    "name": "Market Talk #5",
+    "URL": "NxZEzDvAkhw",
+    "date": "2019-06-24",
+    "duration": "35:36"
   },
   {
-    "name": "market talk 6",
-    "link": "https://www.youtube.com/watch?v=lyXgXms4tnM",
-    "youtubeId": "lyXgXms4tnM"
+    "name": "Market Talk #6",
+    "URL": "lyXgXms4tnM",
+    "date": "2019-06-29",
+    "duration": "30:01"
   }
 ]
