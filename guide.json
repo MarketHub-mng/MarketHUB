@@ -1,111 +1,154 @@
-[ 
-  {
-    "name": "Санхүүгийн зах зээлийн тухай",
-    "URL": "6NWUvoSC6HM",
-    "date": "2019-11-04",
-    "duration": "2:00"
-  },
-  {
-    "name": "Санхүүгийн зах зээлийн бүтэц",
-    "URL": "vcPAHot_YK4",
-    "date": "2019-12-05",
-    "duration": "1:15"
-  },
-  {
-    "name": "Санхүүгийн мэдлэг бидний амьдралд",
-    "URL": "oRavm4MtJP0",
-    "date": "2019-12-05",
-    "duration": "1:22"
-  },
-  {
-    "name": "Санхүүгийн сахилга бат буюу хуримтлалыг хэрхэн төлөвлөх вэ?",
-    "URL": "6tDRkkq3ykI",
-    "date": "2019-06-04",
-    "duration": "36:45"
-  },
-  {
-    "name": "Санхүүгийн боловсрол олгох мэдээлэл",
-    "URL": "MFjzhjgm3ts",
-    "date": "2019-05-20",
-    "duration": "48:28"
-  },
-  {
-    "name": "Баялагийн тэгш шударга хуваарилалт",
-    "URL": "",
-    "date": "",
-    "duration": ""
-  },
-  {
-    "name": "Хөрөнгийн зах зээлийг хөгжүүлэх боломж",
-    "URL": "",
-    "date": "",
-    "duration": ""
-  },
-  {
-    "name": "Хөрөнгийн зах зээлийн ач холбогдол",
-    "URL": "",
-    "date": "",
-    "duration": ""
-  },
-  {
-    "name": "Эдийн засгийг хөдөлгөгч хүч компани",
-    "URL": "",
-    "date": "",
-    "duration": ""
-  },
-  {
-    "name": "Өмч хувьчлалаас өгөөж хүртсэн бодит түүх",
-    "URL": "",
-    "date": "",
-    "duration": ""
-  },
-  {
-    "name": "Хувьцааны ханшийн зөрүүнээс хэрхэн ашиг олдог вэ?",
-    "URL": "",
-    "date": "",
-    "duration": ""
-  },
-  {
-    "name": "Хувьцааны төрөл",
-    "URL": "",
-    "date": "",
-    "duration": ""
-  },
-  {
-    "name": "Хувьцааг хаана бүртгэж хадгалдаг вэ?",
-    "URL": "",
-    "date": "",
-    "duration": ""
-  },
-  {
-    "name": "Брокерийн компанийн тухай",
-    "URL": "",
-    "date": "",
-    "duration": ""
-  },{
-    "name": "Холимог тэтгэврийн сангийн тогтолцоо",
-    "URL": "",
-    "date": "",
-    "duration": ""
-  },{
-    "name": "Хувийн тэтгэврийн сангийн тухай",
-    "URL": "",
-    "date": "",
-    "duration": ""
-  },{
-    "name": "Уул уурхайн баялагт түшиглэсэн тэтгэврийн сан",
-    "URL": "",
-    "date": "",
-    "duration": ""
-  },{
-    "name": "Инфляци буюу үнийн түвшин",
-    "URL": "",
-    "date": "",
-    "duration": ""
-  },{
-    "name": "Эрдэнэс Тавантолгой ХК-ийн тухай",
-    "URL": "",
-    "date": "",
-    "duration": ""
-  }
+[
+    {
+        "id": 0,
+        "name": "Санхүүгийн зах зээлийн тухай",
+        "URL": "6NWUvoSC6HM",
+        "date": "2019-11-04",
+        "duration": "2:00",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 1,
+        "name": "Санхүүгийн зах зээлийн бүтэц",
+        "URL": "vcPAHot_YK4",
+        "date": "2019-12-05",
+        "duration": "1:15",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 2,
+        "name": "Санхүүгийн мэдлэг бидний амьдралд",
+        "URL": "oRavm4MtJP0",
+        "date": "2019-12-05",
+        "duration": "1:22",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 3,
+        "name": "Санхүүгийн сахилга бат буюу хуримтлалыг хэрхэн төлөвлөх вэ?",
+        "URL": "6tDRkkq3ykI",
+        "date": "2019-12-05",
+        "duration": "2:05",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 4,
+        "name": "Санхүүгийн боловсрол олгох мэдээлэл",
+        "URL": "Wtx40DfLuRM",
+        "date": "2019-12-05",
+        "duration": "1:04",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 5,
+        "name": "Баялагийн тэгш шударга хуваарилалт",
+        "URL": "wXCsoUl8fKo",
+        "date": "2019-12-05",
+        "duration": "2:17",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 6,
+        "name": "Хөрөнгийн зах зээлийг хөгжүүлэх боломж",
+        "URL": "6tDRkkq3ykI",
+        "date": "2019-12-05",
+        "duration": "2:05",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 7,
+        "name": "Хөрөнгийн зах зээлийн ач холбогдол",
+        "URL": "-LB2t3cD3Is",
+        "date": "2019-12-05",
+        "duration": "1:30",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 8,
+        "name": "Эдийн засгийг хөдөлгөгч хүч компани",
+        "URL": "9yZrvaOH5ZQ",
+        "date": "2019-12-05",
+        "duration": "1:40",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 9,
+        "name": "Өмч хувьчлалаас өгөөж хүртсэн бодит түүх",
+        "URL": "jrl-TLePpPc",
+        "date": "2019-12-05",
+        "duration": "2:13",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 10,
+        "name": "Хувьцааны ханшийн зөрүүнээс хэрхэн ашиг олдог вэ?",
+        "URL": "YOIA_f_2iDg",
+        "date": "2019-12-05",
+        "duration": "2:30",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 11,
+        "name": "Хувьцааны төрөл",
+        "URL": "oBvBL9DNxkg",
+        "date": "2019-12-05",
+        "duration": "1:30",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 12,
+        "name": "Хувьцааг хаана бүртгэж хадгалдаг вэ?",
+        "URL": "zi5zXyMVmGQ",
+        "date": "2019-12-05",
+        "duration": "1:13",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 13,
+        "name": "Брокерийн компанийн тухай",
+        "URL": "tND-IjvqwWM",
+        "date": "2019-12-05",
+        "duration": "1:26",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 14,
+        "name": "Холимог тэтгэврийн сангийн тогтолцоо",
+        "URL": "FzqQUjrwWDk&feature=youtu.be&fbclid=IwAR0Bmsz8BrKpJzjfBcgrfu5XU6_yJnp6NPRWn2G3wkui_2yFA90tQbjpkp4",
+        "date": "2020-05-11",
+        "duration": "2:17",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 15,
+        "name": "Хувийн тэтгэврийн сангийн тухай",
+        "URL": "wKnEEnY63t8&amp=&feature=youtu.be",
+        "date": "2020-05-11",
+        "duration": "2:02",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 16,
+        "name": "Уул уурхайн баялагт түшиглэсэн тэтгэврийн сан",
+        "URL": "9s06U0_jC2o&amp=&feature=youtu.be",
+        "date": "2020-05-11",
+        "duration": "1:43",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 17,
+        "name": "Инфляци буюу үнийн түвшин",
+        "URL": "1Hx9054Nb9A&amp=&feature=youtu.be",
+        "date": "2020-05-11",
+        "duration": "2:00",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    },
+    {
+        "id": 18,
+        "name": "Эрдэнэс Тавантолгой ХК-ийн тухай",
+        "URL": "y9-YEg1KnVw&amp=&feature=youtu.be",
+        "date": "2020-05-11",
+        "duration": "1:50",
+        "picture": "https://raw.githubusercontent.com/MarketHub-mng/MarketHUB/master/media/mediaPic.png"
+    }
 ]
